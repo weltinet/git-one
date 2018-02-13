@@ -1,9 +1,7 @@
 body {
   background-color: red;
   font-size: 2em;
-<<<<<<< HEAD
-  break it:
   font-color: green;
-=======
->>>>>>> parent of c363a84... added broken
+  position: absolute;
+  padding-left: 10px;
 }
